@@ -30,7 +30,13 @@ Studied a cybercrime case and created a **prevention checklist** to spread aware
 - task-2-portfolio  
 - task-3-platforms  
 - task-4-email-etiquette  
-- task-5-cyberpractice  
+- task-5-cyberpractice
+
+## Links
+ -Google form- https://docs.google.com/forms/d/e/1FAIpQLScMSUYNv_gKCT4w1mrcwwuK5_fp6nDyfBG8we-BxK2wq44bYg/viewform?       usp=dialog
+ -Linkedin -https://www.linkedin.com/in/udaya-reddy-416975394/
+ -kaggle-https://www.kaggle.com/karriudayareddy
+ -canva-https://canva.link/ofzhhmrxia41z1u
 
 ## Conclusion
 This project helped me understand the importance of digital literacy, responsible communication, cybersecurity awareness, and maintaining a professional digital identity.
